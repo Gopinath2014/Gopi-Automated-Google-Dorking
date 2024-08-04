@@ -25,7 +25,7 @@ gsite="site:$domain" 		## Google Site
 folder="outputs"		## Output folder name
 
 ## Request the repository
-onlinevar=`curl -s https://raw.githubusercontent.com/Arulprakash111/Arul-Google-Dorking-Scanner/master/settings.conf`
+onlinevar=`curl -s https://github.com/Gopinath2014/Gopi-Automated-Google-Dorking/blob/main/settings.conf`
 onlineversion=`echo $onlinevar | awk -F\" '{print $2}'`		# Latest version
 onlineupdatedate=`echo $onlinevar | awk -F\" '{print $4}'`	# The date of release
 sponsorstartdate=`echo $onlinevar | awk -F\" '{print $6}'`	# Sponsor start date 
@@ -1039,11 +1039,11 @@ useragentlength=${#useragentsarray[@]};
 echo -e "";
 echo -e "$ORANGE╔═══════════════════════════════════════════════════════════════════════════╗$CLEAR_FONT";
 echo -e "$ORANGE║\t\t\t\t\t\t\t\t\t    ║$CLEAR_FONT";
-echo -e "$ORANGE║$CLEAR_FONT$GREEN_BOLD\t\t\t    Arul Google Dorking Scanner \t\t\t    $CLEAR_FONT$ORANGE║$CLEAR_FONT";
+echo -e "$ORANGE║$CLEAR_FONT$GREEN_BOLD\t\t\t    Gopi-Automated-Google-Dorking \t\t\t    $CLEAR_FONT$ORANGE║$CLEAR_FONT";
 echo -e "$ORANGE║\t\t\t\t\t\t\t\t\t    ║\e[00m";
 echo -e "$ORANGE╚═══════════════════════════════════════════════════════════════════════════╝$CLEAR_FONT";
 echo -e "";
-echo -e "$ORANGE[ ! ] https://www.linkedin.com/in/Arulprakash/ | https://x.com/glinkinivan$CLEAR_FONT";
+echo -e "$ORANGE[ ! ] https://www.linkedin.com/in/Gopinath/ | https://x.com/glinkinivan$CLEAR_FONT";
 
 # Check the version
 checktheversion=$(echo "$version < $onlineversion" | bc -l)
