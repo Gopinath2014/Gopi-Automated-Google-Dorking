@@ -35,4 +35,4 @@ and then run it with your argument for the URL such as this:
 docker run -it --rm FOO mysite.com
 
 LICENCED BY 
-ARUL PRAKASH R
+GOPINATH R 
