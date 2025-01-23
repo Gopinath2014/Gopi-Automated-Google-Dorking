@@ -48,4 +48,4 @@ An original article:
 [https://www.ivanglinkin.com/Arul-Google-Dorking-Scanner/](https://www.ivanglinkin.com/Arul-Google-Dorking-Scanner/)
 
 IT's LICENCED BY
-ARUL PRAKASH.R
+GOPINATH.R
