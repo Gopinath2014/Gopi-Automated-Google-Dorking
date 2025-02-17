@@ -6,10 +6,10 @@
 # specific web-site: common admin panels, the widespread file types and    #
 # path traversal. The 100% automated.					   #
 ############################################################################
-# Author:   Arul Prakash                                                   #
-# Contact:  arul@gmail.com                                                 #
+# Author:   gopinath R                                                     #
+# Contact:  gopigopigsr@gmail.com                                          #
 # Twitter:                                                                 #
-# LinkedIn: https://www.linkedin.com/in/Arulprakash/                       #
+# LinkedIn: https://www.linkedin.com/in/gopinath-r-5571872b3               #                                                #
 ############################################################################
 
 # Variables
