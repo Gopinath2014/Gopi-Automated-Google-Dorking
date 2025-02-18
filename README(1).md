@@ -13,7 +13,7 @@ chmod +x GAGD.sh
 ```
 or
 ```
-bash ./GAGD.sh https://Gopi.vercel.app/.one
+bash ./GAGD.sh
 ```
 
 with proxy
