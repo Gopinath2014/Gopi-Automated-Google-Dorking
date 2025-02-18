@@ -9,17 +9,17 @@ cd Gopi-Automated-Google-Dorking
 
 ```
 chmod +x GAGD.sh
-./GAGD.sh megacorp.one
+./GAGD.sh 
 ```
 or
 ```
-bash ./GAGD.sh https://arul.vercel.app/.one
+bash ./GAGD.sh https://Gopi.vercel.app/.one
 ```
 
 with proxy
 
 ```
-bash ./GAGD.sh megacor.one 192.168.1.1 8080
+bash ./GAGD.sh 192.168.1.1 8080
 ```
 
 This will work beatifully on Kali but an ultimately universal way is through Docker. Just run 
@@ -45,7 +45,7 @@ Screenshots:
 
 An original article:
 --------------------
-[https://www.ivanglinkin.com/Arul-Google-Dorking-Scanner/](https://www.ivanglinkin.com/Arul-Google-Dorking-Scanner/)
+[https://www.ivanglinkin.com/Gopi-Google-Dorking-Scanner/](https://www.ivanglinkin.com/Gopi-Google-Dorking-Scanner/)
 
 IT's LICENCED BY
 GOPINATH.R
