@@ -1048,7 +1048,7 @@ echo -e "$ORANGE[ ! ] https://www.linkedin.com/in/Gopinath/ | https://x.com/glin
 # Check the version
 checktheversion=$(echo "$version < $onlineversion" | bc -l)
 if [ "$checktheversion" -eq 1 ]; then
-    echo -e "$RED_BOLD[ ! ] You current AGDS version ($version) is outdated!\n[ ! ] The latest version is$CLEAR_FONT $GREEN_BOLD$onlineversion $CLEAR_FONT\n$RED_BOLD[ ! ] You can download the latest version by executing the next command:\n[ ! ]$CLEAR_FONT$GREEN_BOLD https://github.com/Gopinath2014/Gopi-Automated-Google-Dorking.git $CLEAR_FONT";
+    echo -e "$RED_BOLD[ ! ] You current AGDS version ($version) is outdated!\n[ ! ] The latest version is$CLEAR_FONT $GREEN_BOLD$onlineversion $CLEAR_FONT\n$RED_BOLD[ ! ] You can download the latest version by executing the next command:\n[ ! ]$CLEAR_FONT$GREEN_BOLD git clone https://github.com/Gopinath2014/Gopi-Automated-Google-Dorking.git $CLEAR_FONT";
 else
     echo -e "$ORANGE[ ! ] Version: $version (latest)$CLEAR_FONT";
 fi
