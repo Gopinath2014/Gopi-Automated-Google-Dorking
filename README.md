@@ -4,10 +4,9 @@ Installation Steps:
 ```
 git clone https://github.com/Gopinath2014/Gopi-Automated-Google-Dorking.git
 ```
+Next
 ```
 cd Gopi-Automated-Google-Dorking
-```
-```
 chmod +x GAGD.sh
 ```
 Usage example
