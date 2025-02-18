@@ -17,7 +17,7 @@ Usage example
 
 or
 ```
-bash ./GAGD.sh megacorp.one
+bash ./GAGD.sh 
 ```
 
 with proxy
