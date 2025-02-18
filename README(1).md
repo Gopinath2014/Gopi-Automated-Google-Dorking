@@ -9,17 +9,17 @@ cd Gopi-Automated-Google-Dorking
 
 ```
 chmod +x GAGD.sh
-./GAGD.sh 
+./GAGD.sh megacorp.one
 ```
 or
 ```
-bash ./GAGD.sh
+bash ./GAGD.sh megacorp.one
 ```
 
 with proxy
 
 ```
-bash ./GAGD.sh 192.168.1.1 8080
+bash ./GAGD.sh megacorp.one 192.168.1.1 8080
 ```
 
 This will work beatifully on Kali but an ultimately universal way is through Docker. Just run 
