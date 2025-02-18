@@ -17,7 +17,7 @@ Usage example
 
 or
 ```
-bash ./GAGD.sh 
+bash ./GAGD.sh megacorp.one
 ```
 
 with proxy
@@ -29,10 +29,11 @@ This will work beatifully on Kali but an ultimately universal way is through Doc
 ```
 docker build -t FOO .
 ```
-
 and then run it with your argument for the URL such as this:
+```
 
 docker run -it --rm FOO mysite.com
+```
 
 LICENCED BY 
 GOPINATH R 
