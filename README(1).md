@@ -7,8 +7,7 @@ Usage example:
 ```
 cd Gopi-Automated-Google-Dorking
 
-```
-chmod +x GAGD.sh
+```chmod +x GAGD.sh
 ./GAGD.sh megacorp.one
 ```
 or
